@@ -1,1 +1,1 @@
-# TinkerCAD_IC_74HC73
+# TinkerCAD IC 74HC73
